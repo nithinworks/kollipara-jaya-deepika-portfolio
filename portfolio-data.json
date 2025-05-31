@@ -1,0 +1,188 @@
+{
+  "settings": {
+    "name": "Kollipara Jaya Deepika",
+    "title": "PowerBI Dev",
+    "location": "India",
+    "summary": "An enthusiastic fresher with a strong foundation in computer science, eager to apply skills and contribute to innovative projects.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4D03AQHRLPb_QQdnfg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677259891367?e=1753920000&v=beta&t=pvXJpPzbNdU9i3lgnL-NfwonrfnvdjLCken9eRI5kcY",
+    "primaryColor": "#DB2777"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:kolliparajayadeepika2002@gmail.com",
+          "isPrimary": false,
+          "icon": "phone"
+        },
+        {
+          "text": "Download Resume",
+          "url": "#",
+          "isPrimary": true,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "I am a highly motivated and independent graduate with a passion for technology and a drive to learn. My academic background in Computer Science and Engineering, coupled with hands-on project experience, has equipped me with a solid foundation in software development and problem-solving. I am eager to leverage my skills and contribute to innovative projects in a challenging and dynamic environment. I am always energetic and eager to learn new skills.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "C",
+          "Java",
+          "HTML/CSS",
+          "SQL",
+          "JavaScript",
+          "PHP",
+          "Cyber Security",
+          "Cloud Security",
+          "Network Security",
+          "Security Operations"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "RKJ Technologies",
+          "position": "Android Development Intern",
+          "period": "12/2019 - 04/2020",
+          "description": "Developed and enhanced Android applications, focusing on troubleshooting complex technical issues and optimizing performance. Achieved a 90% success rate in resolving assigned project issues. Designed and implemented an Advanced Weather Application using the OpenWeather API to provide real-time weather updates."
+        },
+        {
+          "company": "Eduskills by PaloAlto",
+          "position": "Security Domain Intern",
+          "period": "03/2021 - 09/2021",
+          "description": "Participated in a virtual internship focused on cybersecurity, gaining foundational knowledge in cloud security, network security, and security operations. Contributed to understanding and implementing security best practices."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Weather Tracking App",
+          "description": "Developed a responsive Weather Tracking App using the OpenWeather API, enabling users to track weather conditions for any location with an elegant user interface. Focused on providing accurate and timely weather information.",
+          "tags": [
+            "Java",
+            "OpenWeather API",
+            "Android Development"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "SafeDine - Hotel Management System",
+          "description": "Designed and implemented a Hotel Management System that allows restaurants to create food menus accessible via QR codes. Utilized front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like SQL and PHP.",
+          "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL",
+            "PHP",
+            "QR Codes"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "Pneumonia Detection",
+          "description": "Developed a Pneumonia Detection model using Resnet-50 Architecture, trained to identify pneumonia from chest X-ray images with a 95% success rate. Focused on improving diagnostic accuracy and accessibility.",
+          "tags": [
+            "Python",
+            "Resnet-50",
+            "Machine Learning",
+            "Image Processing",
+            "AI"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "BV RAJU INSTITUTE OF TECHNOLOGY",
+          "degree": "B.Tech in Computer Science and Engineering",
+          "period": "07/2020 - Present"
+        },
+        {
+          "institution": "TRR College of Engineering",
+          "degree": "Diploma in Computer Engineering",
+          "period": "07/2017 - 04/2020"
+        },
+        {
+          "institution": "St.Anthony's High School",
+          "degree": "SSC",
+          "period": "06/2016 - 05/2017"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "kolliparajayadeepika2002@gmail.com",
+      "phone": "6300287615",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "https://linkedin.com/in/jaya-deepika",
+          "icon": "globe"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://linkedin.com/in/johndoe",
+          "icon": "twitter"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      },
+      {
+        "name": "Blog",
+        "url": "https://blog.com"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Kollipara Jaya Deepika. All rights reserved."
+  }
+}
